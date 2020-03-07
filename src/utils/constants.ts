@@ -1,0 +1,1 @@
+export const MINIMUM_ANNUAL_INCOME = 10000;
